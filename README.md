@@ -24,10 +24,3 @@ ex)
 >
 > 		# cd libnet/include/libnet
 > 		# mv libnet-macros.h libnet-headers.h /usr/include/libnet
->
->
-> ```
->  # cd libnet/include/libnet
->  # mv libnet-macros.h libnet-headers.h /usr/include/libnet
-> ```
->
